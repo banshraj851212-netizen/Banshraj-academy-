@@ -1,0 +1,6 @@
+{
+  "name": "Banshraj Academy",
+  "description": "PW-inspired learning platform for Banshraj Academy featuring live & recorded lectures, DPPs, test series, doubt clearing, student enrollment approvals, role-based content creation, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
